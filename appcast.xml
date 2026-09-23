@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EasyTranslatorNextHost</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Wed, 23 Sep 2026 10:19:08 +0800</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/leomonan/EasyTranslator-downloads/main/EasyTranslator-1.0.1.zip" length="44838555" type="application/octet-stream" sparkle:edSignature="NnN3flmvEmH6xAMKsNJBF2+Y6lFxWqrG+UHzPH8gmaVtA5VGhZf1FWHbeKo3QJH37iv2gLLg/bIpoK8nOtJXDg=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: tlSSTV0kBy939a4S354zFFVv8eJIvkViI9Lnp9RzjmWvB9yRnbAepSB3uuNUcL5fKJB19Kn7kodflCR04ByGDA==
+length: 1152
+-->
