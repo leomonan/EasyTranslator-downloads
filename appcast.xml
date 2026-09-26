@@ -7,6 +7,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>EasyTranslatorNextHost</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Sat, 26 Sep 2026 10:08:46 +0800</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/leomonan/EasyTranslator-downloads/main/EasyTranslator-1.0.1-build9.zip" length="44864211" type="application/octet-stream" sparkle:edSignature="QeDhGw8E3BVudUPkVpoCgeisdCElJbxECw3uzBVOHLAF+d1z9aVs5bIznhV+dlSpsj63OwQSAaT4YWnnKiQzBA=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Sat, 26 Sep 2026 00:10:10 +0800</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
@@ -35,6 +44,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: KMOSYhvzrlX1ovmjXXZqcCGVLwXOiycJ2m5vI4v55F/5aKMMaXcSaRQNukI6Dxrwyt6OZ0+VQv63ePcO8ZL3BQ==
-length: 2561
+edSignature: HuW4JFLHRaMB7b9HeL/tGnhSk7M7tSnnYraedoJlDHC8pWvSmt6QA+257wKU3O8gVlBTryxEsUCbzz7q7jzdBQ==
+length: 3266
 -->
