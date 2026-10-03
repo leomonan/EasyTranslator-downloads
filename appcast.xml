@@ -7,6 +7,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>EasyTranslatorNextHost</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Sun, 04 Oct 2026 00:54:41 +0800</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>EasyTranslator 1.0.1 build11</h2>
+<ul>
+<li>修复部分 macOS 系统词典资源不可用时导致的崩溃。</li>
+<li>修复术语结构校验失败时错误不可见，以及术语面板随请求结束消失的问题。</li>
+</ul>
+]]></description>
+            <enclosure url="https://raw.githubusercontent.com/leomonan/EasyTranslator-downloads/main/EasyTranslator-1.0.1-build11.zip" length="44669647" type="application/octet-stream" sparkle:edSignature="R2fkV3fwEoRkxC/7N2avUVCZpDhwY2ZUjB7V9yRIstPAoS6UGDD3icVBrf80+8zx375JQulOJBZc8E6rKm8hBA=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Mon, 28 Sep 2026 11:29:08 +0800</pubDate>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
@@ -53,6 +68,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: WVVnhVa0j3rc8n3hqy9BIzjtp1qevJan3nu5osSe5BNR239zf45fy59N2SLtmywERIBtSvZKh0YPVjNhpSnSDA==
-length: 3973
+edSignature: AUKWUgkQj0BA99OKTYFZHbYX1GMhyCsqVvXKo/NQwR6LjIVsA1p3dEyR+WcdbjA9ktnjfGtqGkB6+y5V4Q/eAQ==
+length: 4970
 -->
