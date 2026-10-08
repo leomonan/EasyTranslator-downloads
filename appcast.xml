@@ -7,6 +7,16 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>EasyTranslatorNextHost</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Thu, 08 Oct 2026 17:58:14 +0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink sparkle:edSignature="8G2QVdFRLuG1EO0Wdo0Hw2rcaSjni41BgUBDlDhpKBtd2NVY+QLEuZrvq9QKywKByMLtJKVT7Tm1OQfiFDiBBg==" sparkle:length="519">https://raw.githubusercontent.com/leomonan/EasyTranslator-downloads/main/EasyTranslator-1.0.1-build13.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/leomonan/EasyTranslator-downloads/releases/download/v1.0.1/EasyTranslator-1.0.1-build13.zip" length="44743811" type="application/octet-stream" sparkle:edSignature="RfCRKgwmxSgcBI6ttrx8+d5pSRhFiQEWqVMzDzGpsq2EAKDLRYMcpEcaGHdnlqxHdYgiJ+iFIqhfueEFU03nBA=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Thu, 08 Oct 2026 12:33:32 +0800</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
@@ -84,6 +94,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: Z4zbt9cZ4FrR2+demSmOEA7jbl4cnYPcBE1Cq8/UGw1tA2TvRXL6QeWtMaEJzpr95BAgzvMKuoUwhqyb0k6GBw==
-length: 6064
+edSignature: uDbt9nSxAbhwUKSbv83lSpyTjPaFRPK/jBvA4eBdToVVrZ9EOSn55zPKBR6Kfo6EN5v+xVuqhHGuqI5HmGiIAA==
+length: 7078
 -->
